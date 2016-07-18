@@ -1,0 +1,23 @@
+canvas {
+    border-style: dashed;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+	
+h3 {
+	text-align: center;
+}
+h1 {background:red;}
+h2 {background:cyan;}
+h3 {background:cyan;}
+
+body {
+    background-image: url("Back2.jpg");
+    background-repeat: repeat-10;
+}
